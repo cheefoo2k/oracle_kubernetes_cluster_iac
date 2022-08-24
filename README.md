@@ -3,7 +3,7 @@ Terraform script to create a kubernetes cluster in Oracle cloud
 
 ### Prerequisite :
 1. Terraform 
-2. Oracle Cloud account: To register for an account please go to this link
+2. Oracle Cloud account: To register for an account please go to this [link](https://cloud.oracle.com/)
 3. An IAM user different from your root user
 4. Install Oracle OCI by running below command on mac 
    1. ''' brew update && brew install oci-cli '''
